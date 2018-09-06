@@ -1,0 +1,14 @@
+- Collaborative self-organized, emergence.
+  - Atlassian Confluence
+  - Jira: A proprietary issue tracking product developed by Atlassian which allows bug tracking and agile project management.
+  - Bamboo: a continuous integration and continuous deployment server developed by Atlassian.
+- Workflow
+- Agile software development, Scrum agile framework.
+- Spark, Cloud: Azure, Google cloud, Amazon elastic
+-Powershell
+-TCP/IP protocols, RPC protocol
+- Tuple space: Json document format
+- Tensorflow
+- Databases: NoSQL, SQL
+- Virtual computing:  Docker, VM
+
