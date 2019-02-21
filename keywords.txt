@@ -1,0 +1,7 @@
+programming languages:  Python, Spark, R, Scala, Julia, Powershell
+Natural Language Processing:  Neural Networks,
+Cloud:  google cloud, Azure
+Virtual machines:  Docker, VM
+
+
+
